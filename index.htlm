@@ -1,0 +1,11 @@
+   <head>
+   <htlm>
+   <head>
+      <tittle>este es el titulo de la pagina</tittle>
+   </head>
+   <body>
+    <h1>este es el cuerpo de la pagina</h1>
+    <p> cualquier cosa dentro del cuerpo de una pagina web se muestra
+    en la ventana principal del navegador. </p>
+
+    <p>este texto puede ser la introduccion al resto de la pagina.</p>
